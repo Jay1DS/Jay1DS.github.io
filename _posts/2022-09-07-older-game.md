@@ -39,9 +39,23 @@ After establishing the look and layout, the next development was to convert it t
 
 ![FI_SC-PresentR01](https://github.com/Jay1DS/Jay1DS.github.io/assets/174924644/c1fb50a8-db56-4dec-974f-126264d33021)
 
-Next was to apply the all the textures need to make the scene appealing. Since I've been working on the texture work whilst modeling the scene, everything was already set to be used for material shading. The only real issue I would encounter was the stretching textures on curtain surfaces, especially that of the pillars. The solution to this problem was to attach the 2D texture to a 3D matrix, using a 3D texture asset like marble or granite to bind the nodes in hypershade. This method helps as it projects the texture in a 3D space instead of fitting the texture to individial faces. With that solution put in place, next up was to add proper lighting to the scene
+Next was to apply the all the textures need to make the scene appealing. Since I've been working on the texture work whilst modeling the scene, everything was already set to be used for material shading. The only real issue I would encounter was the stretching textures on curtain surfaces, especially that of the pillars. The solution to this problem was to attach the 2D texture to a 3D matrix, using a 3D texture asset like marble or granite to bind the nodes in hypershade. This method helps as it projects the texture in a 3D space instead of fitting the texture to individial faces. With that solution put in place, next up was to add proper lighting to the scene.
 
 Lighting and Feedack
 --
 
+Firstly, lighting. With the lighting of the scene, I wanted to have scattered light at the center, with subtle lighting to make more of the scene visable. Rather simple process as it just requires adjustments to intensity, size, angle and location.
+
+![FI_SC-LightFinal01](https://github.com/Jay1DS/Jay1DS.github.io/assets/174924644/12721737-81e0-4e69-b245-1ed342e6fde6)
+
+Once the lighting was put together, it was time to get the feedback. The mix of feedback was that of reflecting back at the work, as well as critiques from classmates and tutors. The following where put through:
+*The floor was too shiny for an ancient ruin
+*Texturing was inconsistant in some areas
+*lighting was too contrasting
+*Not enough natural fuana
+*Meshes look too sharp
+
+With that feedback, I started making changes. Most of the materials were updated to include more use of the 3D matrix, remade meshes for the bricks and tiles via zbrush core, added more folage to the scene, and made the needed adjustments to the lighting and material roughness.
+
+![FI_SC-PolishedFinal](https://github.com/Jay1DS/Jay1DS.github.io/assets/174924644/244d32b5-d1ed-4b76-beb6-9681874308ae)
 
