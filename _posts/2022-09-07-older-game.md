@@ -8,8 +8,9 @@ preview: /assets/postpreview.png
 
 ![Picture 1](/assets/fullsize.png)
 
-Timeframe: 4 weeks
--
+Timeframe: 4 weeks (5 days total)
+Project scale: Solo/ one person
+Type: Collage project
 
 Introduction
 --
@@ -59,3 +60,7 @@ With that feedback, I started making changes. Most of the materials were updated
 
 ![FI_SC-PolishedFinal](https://github.com/Jay1DS/Jay1DS.github.io/assets/174924644/244d32b5-d1ed-4b76-beb6-9681874308ae)
 
+Project Post-Moderm
+--
+
+From making this scene, it had its issues but proved indispencable for the gained experience. With What it had to work with and what I knew, I feel that I tried the my best. There are still a few minor issues with how the scene looks, but I would need to learn more about autodesk maya to smoothen those details out. Dispite that, I feel somewhat satisfied with end result I've got, and I am looking forward to making more scenes with the experience gained from projects like this. 
