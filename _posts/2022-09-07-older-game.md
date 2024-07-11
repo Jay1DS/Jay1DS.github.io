@@ -49,11 +49,11 @@ Firstly, lighting. With the lighting of the scene, I wanted to have scattered li
 ![FI_SC-LightFinal01](https://github.com/Jay1DS/Jay1DS.github.io/assets/174924644/12721737-81e0-4e69-b245-1ed342e6fde6)
 
 Once the lighting was put together, it was time to get the feedback. The mix of feedback was that of reflecting back at the work, as well as critiques from classmates and tutors. The following where put through:
-*The floor was too shiny for an ancient ruin
-*Texturing was inconsistant in some areas
-*lighting was too contrasting
-*Not enough natural fuana
-*Meshes look too sharp
+* The floor was too shiny for an ancient ruin
+* Texturing was inconsistant in some areas
+* lighting was too contrasting
+* Not enough natural fuana
+* Meshes look too sharp
 
 With that feedback, I started making changes. Most of the materials were updated to include more use of the 3D matrix, remade meshes for the bricks and tiles via zbrush core, added more folage to the scene, and made the needed adjustments to the lighting and material roughness.
 
