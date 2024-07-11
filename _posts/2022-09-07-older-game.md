@@ -3,7 +3,7 @@ layout: post
 title:  "3D Modelling Scene"
 summary: "3D Modeller"
 date:   2023-12-06 11:36:15
-preview: /assets/postpreview.png
+preview: /assets/FI_SC-PolishedFinal_300-300.jpg
 ---
 
 ![FI_SC-PolishedFinal](https://github.com/Jay1DS/Jay1DS.github.io/assets/174924644/244d32b5-d1ed-4b76-beb6-9681874308ae)
