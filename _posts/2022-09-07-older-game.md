@@ -8,7 +8,7 @@ preview: /assets/FI_SC-PolishedFinal_300-300.jpg
 
 ![FI_SC-PolishedFinal](https://github.com/Jay1DS/Jay1DS.github.io/assets/174924644/244d32b5-d1ed-4b76-beb6-9681874308ae)
 
-Timeframe: 4 weeks (5 days total)
+Timeframe: 4 weeks (96 hours total)
 
 Project scale: Solo/ one person
 
