@@ -12,11 +12,11 @@ Timeframe: 4 weeks (5 days total)
 
 Project scale: Solo/ one person
 
-Type: Collage project
+Type: College project
 
 Introduction
 --
-The goal of this project was to make a polished final scene that showcases the skills that I've gained learning from industry standard software in a collage enviroment.
+The goal of this project was to make a polished final scene that showcases the skills that I've gained learning from industry standard software in a college enviroment.
 
 The programs include the following:
 * Autodesk Maya
