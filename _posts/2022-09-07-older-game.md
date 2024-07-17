@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3D Modelling Scene"
+title:  "3D Final Image Assignment"
 summary: "3D Modeller"
 date:   2023-12-06 11:36:15
 preview: /assets/FI_SC-PolishedFinal_300-300.jpg
